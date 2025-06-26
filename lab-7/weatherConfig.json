@@ -1,0 +1,5 @@
+{
+  "cities": ["Moscow", "Novosibirsk", "Krasnoyarsk", "Saint_Petersburg"],
+  "updateFrequency": 10,
+  "forecastDays":  3
+}
